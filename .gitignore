@@ -1,1 +1,4 @@
 psswd
+*.pyc
+Memes/*
+./node_modules
