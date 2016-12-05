@@ -1,4 +1,5 @@
 psswd
 *.pyc
-/Memes/*
+Memes/*
 /node_modules
+!Memes/.gitkeep 
